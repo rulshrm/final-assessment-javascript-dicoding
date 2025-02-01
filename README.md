@@ -35,7 +35,6 @@ Berikut adalah struktur folder yang ada dalam repository ini:
 │   └── instruksi.md       # Instruksi untuk modul skenario dunia nyata
 └── README.md              # File README untuk proyek ini
 ```
-```
 ## Instruksi
 - **Baca instruksi dengan teliti**: Setiap folder berisi tugas yang disertai instruksi lengkap dalam format ``instruksi.md``. Pastikan untuk membaca instruksi ini sebelum mulai mengerjakan tugas.
 - **Tugas Optional**: Folder dengan prefix ``optional-`` berisi tantangan tambahan yang bersifat opsional. Tugas ini membantu untuk memperdalam pemahaman mengenai konsep yang lebih kompleks seperti OOP, rekursi, dan pengujian.
