@@ -1,6 +1,7 @@
-// import function dari index.js
+import { test as bunTest } from 'bun:test';
 import { sum } from "./index";
+import assert from 'assert';
 
-it("menjumlahkan dua angka", () => {
-  expect(sum(1, 2)).toBe(3);
+bunTest("menjumlahkan dua angka", () => {
+  assert.strictEqual(sum(1, 2), 3, "Expected sum(1, 2) to be 3");
 });
